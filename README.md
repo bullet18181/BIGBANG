@@ -1,6 +1,6 @@
 # BIGBANG
 
-Create social network website like facebook using php
+Create simple social network website like facebook using php
 
 # View Tutorials (Series Completed)
 
