@@ -73,4 +73,4 @@ This theme is modified version of Free AdminLTE Theme (https://adminlte.io/). Al
 Feel free to contact me through my website email tuazon548@gmail.com
 
 # Credit to 
-BossMan1994 for the idea and codes
+BossMan1994 for the concept and for the initial codes
