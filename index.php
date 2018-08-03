@@ -131,6 +131,11 @@ $_SESSION['callFrom'] = "index.php";
                       <!-- Box Comment -->
                       <div class="box box-widget">
                         <div class="box-header with-border">
+                            <div class="box-tools">
+                                <button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i>
+                                </button>
+                                <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-times"></i></button>
+                            </div>
                           <div class="user-block">
                             <?php
                           if($row['profileimage'] != '') {
