@@ -103,7 +103,7 @@
 
                 <p>
                   <?php echo $name; ?> - <?php echo $designation; ?>
-                  <small>Member since Nov. 2012</small>
+                  <small>Member since August 3. 2018</small>
                 </p>
               </li>
               <!-- Menu Footer-->
