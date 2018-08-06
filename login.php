@@ -33,7 +33,7 @@ session_start();
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="index2.html"><b>Big </b>Bang</a>
+    <a href="index2.html"><b>Your</b>Quote</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
