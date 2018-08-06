@@ -433,7 +433,7 @@ $_SESSION['callFrom'] = "index.php";
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2016-2017 <a href="#">Big Bang</a>.</strong> All rights
+    <strong>Copyright &copy; 2016-2018 <a href="#">Your Quote</a>.</strong> All rights
     reserved.
   </footer>
 
