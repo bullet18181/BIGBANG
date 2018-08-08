@@ -90,7 +90,7 @@ $_SESSION['callFrom'] = "index.php";
               <div class="box-body">
                 <div class="form-group">
                   <div class="col-sm-12">
-                   <textarea class="form-control" name="description" placeholder="What's on your mind?" name="message"></textarea>
+                   <textarea class="form-control" name="description" placeholder="Your quote for today?" name="message"></textarea>
                   </div>
                 </div>
               </div>
