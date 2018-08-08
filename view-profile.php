@@ -50,7 +50,7 @@ $_SESSION['callFrom'] = "view-profile.php?id=".$_GET['id'];
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Social Network</title>
+  <title>Your Quote</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -513,7 +513,7 @@ $_SESSION['callFrom'] = "view-profile.php?id=".$_GET['id'];
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2016-2017 <a href="#">Big Bang</a>.</strong> All rights
+    <strong>Copyright &copy; 2018 <a href="#">Your Quote</a>.</strong> All rights
     reserved.
   </footer>
 
