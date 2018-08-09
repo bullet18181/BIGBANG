@@ -29,10 +29,11 @@
       <!-- Navbar Right Menu -->
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
+
                    <!-- Notifications: style can be found in dropdown.less -->
           <li class="dropdown notifications-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-              <i class="fa fa-bell-o"></i>
+              <i class="fa fa-envelope-o"></i>
               <?php if($totalUnreadMessages > 0) { ?>
               <span class="label label-warning"><?php echo $totalUnreadMessages; ?></span>
               <?php } ?>
@@ -62,9 +63,13 @@
             <?php } else { ?>
             <ul class="dropdown-menu">
               <li class="header">You have 0 notifications</li>
+                <li class="footer">
+                    <a href="messages.php">See All Messages</a></li>
             </ul>
             <?php } ?>
+
           </li>
+
           <!-- User Account: style can be found in dropdown.less -->
           <li class="dropdown user user-menu">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
