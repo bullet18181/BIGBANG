@@ -40,7 +40,7 @@
             </a>
             <?php if($totalUnreadMessages > 0) { ?>
             <ul class="dropdown-menu">
-              <li class="header">You have <?php echo $totalUnreadMessages; ?> notifications</li>
+              <li class="header">You have <?php echo $totalUnreadMessages; ?> messages</li>
               <li>
                 <!-- inner menu: contains the actual data -->
                 <ul class="menu">
@@ -114,7 +114,7 @@
               <!-- Menu Footer-->
               <li class="user-footer">
                 <div class="pull-left">
-                  <a href="#" class="btn btn-default btn-flat">Profile</a>
+                  <a href="profile.php" class="btn btn-default btn-flat">Profile</a>
                 </div>
                 <div class="pull-right">
                   <a href="logout.php" class="btn btn-default btn-flat">Sign out</a>
